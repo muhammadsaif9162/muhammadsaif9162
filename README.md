@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaif9162&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif9162" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_muhammad_saif_" target="blank"><img src="https://img.shields.io/twitter/follow/_muhammad_saif_?logo=twitter&style=for-the-badge" alt="_muhammad_saif_" /></a> </p>
-
 - 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **Next Js, Three Js and Databases**
